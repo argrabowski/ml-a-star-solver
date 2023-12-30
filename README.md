@@ -1,4 +1,4 @@
-# A-StarML-Data
+# ML Enhanced A-Star Solver
 
 ## How to Run
 
